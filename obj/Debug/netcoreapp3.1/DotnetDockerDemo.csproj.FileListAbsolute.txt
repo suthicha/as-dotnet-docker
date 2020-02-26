@@ -1,0 +1,11 @@
+/Users/iamsuthicha/Desktop/developer/pattana_2020/workshop/dotnet-docker-demo/bin/Debug/netcoreapp3.1/DotnetDockerDemo
+/Users/iamsuthicha/Desktop/developer/pattana_2020/workshop/dotnet-docker-demo/bin/Debug/netcoreapp3.1/DotnetDockerDemo.deps.json
+/Users/iamsuthicha/Desktop/developer/pattana_2020/workshop/dotnet-docker-demo/bin/Debug/netcoreapp3.1/DotnetDockerDemo.runtimeconfig.json
+/Users/iamsuthicha/Desktop/developer/pattana_2020/workshop/dotnet-docker-demo/bin/Debug/netcoreapp3.1/DotnetDockerDemo.runtimeconfig.dev.json
+/Users/iamsuthicha/Desktop/developer/pattana_2020/workshop/dotnet-docker-demo/bin/Debug/netcoreapp3.1/DotnetDockerDemo.dll
+/Users/iamsuthicha/Desktop/developer/pattana_2020/workshop/dotnet-docker-demo/bin/Debug/netcoreapp3.1/DotnetDockerDemo.pdb
+/Users/iamsuthicha/Desktop/developer/pattana_2020/workshop/dotnet-docker-demo/obj/Debug/netcoreapp3.1/DotnetDockerDemo.csprojAssemblyReference.cache
+/Users/iamsuthicha/Desktop/developer/pattana_2020/workshop/dotnet-docker-demo/obj/Debug/netcoreapp3.1/DotnetDockerDemo.AssemblyInfoInputs.cache
+/Users/iamsuthicha/Desktop/developer/pattana_2020/workshop/dotnet-docker-demo/obj/Debug/netcoreapp3.1/DotnetDockerDemo.AssemblyInfo.cs
+/Users/iamsuthicha/Desktop/developer/pattana_2020/workshop/dotnet-docker-demo/obj/Debug/netcoreapp3.1/DotnetDockerDemo.dll
+/Users/iamsuthicha/Desktop/developer/pattana_2020/workshop/dotnet-docker-demo/obj/Debug/netcoreapp3.1/DotnetDockerDemo.pdb
